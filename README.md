@@ -5,4 +5,5 @@
 ## Aufgabe 2
 <a href="https://github.com/konradmichelle/IFD/blob/main/The%20Wallet%20Project%20Interface%20Design%20Aufgabe%202_Michelle%20Konrad.pdf">Wallet Project</a>
 ## Aufgabe 3
-<a href="https://github.com/konradmichelle/IFD/blob/main/Aufgabe%203%20Interfaktive%20Datenvisualisierung.pdf">Interaktive Datenvisualisierung</a>
+<a href="https://github.com/konradmichelle/IFD/blob/main/Aufgabe%203/Aufgabe%203%20Interaktive%20Datenvisualisierung%20Konzeptentwurf.pdf">Konzeptentwurf</a>
+<a href="https://github.com/konradmichelle/IFD/blob/main/Aufgabe%203/Aufgabe%203%20Interaktive%20Datenvisualisierung%20Moodboard.pdf">Moodboard</a>
