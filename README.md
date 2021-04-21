@@ -10,6 +10,6 @@
 <a href="Aufgabe%203/Aufgabe%203%20Interaktive%20Datenvisualisierung%20Moodboard.pdf">Moodboard</a>
 
 ## Aufgabe 4
-<a href="Prototyping%20Tool%20Justinmind.pdf">Prototyping Tool Justinmind</a>
+<a href="Aufgabe%204/Prototyping%20Tool%20Justinmind.pdf">Prototyping Tool Justinmind</a>
 <br/>
 <a href="Aufgabe%204/Low%20Fidelity%20Prototype.pdf">Prototype Low Fidelity</a>
