@@ -10,4 +10,4 @@
 <a href="https://github.com/konradmichelle/IFD/blob/main/Aufgabe%203/Aufgabe%203%20Interaktive%20Datenvisualisierung%20Moodboard.pdf">Moodboard</a>
 
 ## Aufgabe 4
-<a href="Prototyping%20Tool%20Justinmind.pdf>Prototyping Tool Justinmind</a>
+<a href="Prototyping%20Tool%20Justinmind.pdf">Prototyping Tool Justinmind</a>
