@@ -11,3 +11,5 @@
 
 ## Aufgabe 4
 <a href="Prototyping%20Tool%20Justinmind.pdf">Prototyping Tool Justinmind</a>
+<br/>
+<a href="Aufgabe%204/Low%20Fidelity%20Prototype.pdf">Prototype Low Fidelity</a>
