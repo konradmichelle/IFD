@@ -20,3 +20,10 @@
 ## Aufgabe 7
 
 <a href="TestandEvaluate_Semesterdashboard_MichelleKonrad.pdf">Test and Evaluate</a>
+
+## Aufgabe 8
+
+<a href="Enhancement_Michelle_Konrad_IFD.pdf">Dokumentation Enhancement</a>
+<br/>
+<a href="https://xd.adobe.com/view/e06a6584-b2d3-497e-85f4-d4985ad2e6cd-b539/">Link Prototyp</a>
+
