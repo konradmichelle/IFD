@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="stylesheet.css">
+  <script src="https://kit.fontawesome.com/5022d276b1.js" crossorigin="anonymous"></script>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>VUI</title>
+  <script src="artyom.window.min.js"></script>
+  <script src="playgroud-artyom-script.js"></script>
+</head>
+<body>
+<div class="mikro">
+  <span id="tommi"> </span> <br>
+  <span id= "ich"> </span>
+</div>
+
+<div id="infoBox" style="width:800px">
+  Erfahre alles über deinen Uni-Alltag.<br>
+  Klick auf das Mikrofon um mit Tommy zu sprechen!
+
+</div>
+
+<script type="text/javascript">
+  var info = document.getElementById("infoBox");
+info.style.margin="0 auto";
+  function buttonHide() {
+    info.style.display = "none";
+  }
+</script>
+<!-- quelle: Gerüst https://www.soscisurvey.de/help/doku.php/de:create:popup -->
+
+
+
+
+
+
+  <p id="start">
+
+    <button class="fas fa-microphone" style="font-size:200px" type="button" onclick="buttonHide()"></button>
+
+     </p>
+
+
+
+
+
+<div class="headline">
+  <p id="sprichmt">
+    Stelle Tommy folgende Fragen:<br>
+    1.Wann ist die nächste Abgabe? -> 2. Was muss gemacht werden?<br>
+    Wie viel Zeit muss ich diese Woche für XY aufwenden? <br>
+    Welche To-Dos stehen für Heute an? <br>
+    Was für Veranstaltungen habe ich heute <br>
+    1. Ich möchte einen neuen Termin eintragen -> 2.Streaming Anwendung Verständnisfragen abgeben -> 3. 18 06 21 <br>
+    1.Ich möchte meine Zeit tracken -> 2.Selbstorganisation -> 3. 1,5 Stunden<br>
+    Danke
+  </p>
+
+</div>
+</body>
+</html>
